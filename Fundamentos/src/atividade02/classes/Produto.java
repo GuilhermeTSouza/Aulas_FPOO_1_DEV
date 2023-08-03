@@ -1,5 +1,5 @@
 
-package atividade01.classes;
+package atividade02.classes;
 
 
 public class Produto {

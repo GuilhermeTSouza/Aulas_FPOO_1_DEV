@@ -1,7 +1,7 @@
 
-package atividade01;
+package atividade05;
 
-import atividade01.classes.Passagem;
+import atividade05.classes.Passagem;
 import java.util.Scanner;
 
 

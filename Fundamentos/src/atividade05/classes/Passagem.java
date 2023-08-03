@@ -1,5 +1,5 @@
 
-package atividade01.classes;
+package atividade05.classes;
 
 
 public class Passagem {

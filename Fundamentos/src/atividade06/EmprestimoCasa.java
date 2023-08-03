@@ -1,5 +1,5 @@
 
-package atividade01;
+package atividade06;
 
 
 public class EmprestimoCasa {

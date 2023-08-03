@@ -1,7 +1,7 @@
 
-package atividade01;
+package atividade04;
 
-import atividade01.classes.Salario;
+import atividade04.classes.Salario;
 import java.util.Scanner;
 
 

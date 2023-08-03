@@ -1,5 +1,5 @@
 
-package atividade01.classes;
+package atividade03.classes;
 
 
 public class Multa {
