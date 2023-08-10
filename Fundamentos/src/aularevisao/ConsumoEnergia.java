@@ -1,7 +1,7 @@
 
-package atividade07;
+package aularevisao;
 
-import atividade07.classes.Energia;
+import aularevisao.classes.Energia;
 import java.util.Scanner;
 
 

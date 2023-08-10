@@ -1,5 +1,5 @@
 
-package atividade02.classes;
+package aularevisao.classes;
 
 
 public class Produto {

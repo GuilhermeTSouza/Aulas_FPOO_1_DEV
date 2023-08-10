@@ -1,7 +1,7 @@
 
-package atividade03;
+package aularevisao;
 
-import atividade03.classes.Multa;
+import aularevisao.classes.Multa;
 import java.util.Scanner;
 
 

@@ -1,5 +1,5 @@
 
-package atividade04.classes;
+package aularevisao.classes;
 
 
 public class Salario {

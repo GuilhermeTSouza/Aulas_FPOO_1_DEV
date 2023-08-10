@@ -1,5 +1,5 @@
 
-package atividade08;
+package aularevisao;
 
 
 public class NumerosPares {

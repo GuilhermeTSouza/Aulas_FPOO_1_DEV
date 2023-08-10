@@ -1,7 +1,7 @@
 
-package atividade06;
+package aularevisao;
 
-import atividade06.classes.Emprestimo;
+import aularevisao.classes.Emprestimo;
 import java.util.Scanner;
 
 

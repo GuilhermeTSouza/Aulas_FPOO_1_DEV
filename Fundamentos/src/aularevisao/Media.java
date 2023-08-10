@@ -1,5 +1,5 @@
 
-package atividade09;
+package aularevisao;
 
 
 public class Media {

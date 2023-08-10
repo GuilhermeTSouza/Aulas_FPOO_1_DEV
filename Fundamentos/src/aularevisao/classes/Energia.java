@@ -1,5 +1,5 @@
 
-package atividade07.classes;
+package aularevisao.classes;
 
 
 public class Energia {
